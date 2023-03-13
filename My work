@@ -1,0 +1,8 @@
+echo "My work" >> README.md
+git init
+git add README.md
+git commit -m"Первая фиксация"
+git branch -M main
+git remote add
+git push -u origin main
+
